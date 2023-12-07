@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/pre_2.png</file>
+        <file>source/pre.png</file>
+        <file>source/pre_4.png</file>
+        <file>source/pre_5.png</file>
+        <file>source/next.png</file>
+        <file>source/volume.png</file>
+        <file>source/next_1.png</file>
+        <file>source/mute.png</file>
+        <file>source/volume_1.png</file>
+        <file>source/play_1.png</file>
+        <file>source/stop_1.png</file>
+        <file>source/stop_2.png</file>
+        <file>source/stop_3.png</file>
+        <file>icons/play_.png</file>
+        <file>icons/stop_.png</file>
+        <file>icons/volume_.png</file>
+        <file>icons/next_.png</file>
+        <file>icons/pre_.png</file>
+        <file>icons/volume.png</file>
+        <file>icons/next.png</file>
+        <file>icons/pre.png</file>
+        <file>icons/play.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/on.png</file>
+        <file>icons/off.png</file>
+        <file>icons/game.png</file>
+        <file>icons/music.png</file>
+        <file>cover/720.jpg</file>
+    </qresource>
+</RCC>
